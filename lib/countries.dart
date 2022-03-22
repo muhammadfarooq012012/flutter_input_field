@@ -1596,8 +1596,8 @@ const List<Country> countries = [
     flag: "🇸🇬",
     code: "SG",
     dialCode: "65",
-    minLength: 10,
-    maxLength: 10,
+    minLength: 8,
+    maxLength: 8,
   ),
   Country(
     name: "Slovakia",
